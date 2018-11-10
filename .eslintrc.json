@@ -12,6 +12,7 @@
           "aspects": [ "noHref", "invalidHref", "preferButton" ]
         }],
         "no-new": 0,
-        "padded-blocks": ["error", "never"]
-    }
+        "padded-blocks": ["error", "never"],
+        "jsx-a11y/href-no-hash": "off"
+  }
 }

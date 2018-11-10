@@ -17,12 +17,6 @@ export default {
   },
   data () {
     return {
-      products: [
-        { name: 'Banana', price: 10 },
-        { name: 'Grape', price: 15 },
-        { name: 'Apple', price: 12 },
-        { name: 'Pineapple', price: 20 },
-      ],
     }
   }
 }

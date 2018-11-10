@@ -15,10 +15,6 @@ export default {
     'product-list-one': ProductListOne,
     'product-list-two': ProductListTwo,
   },
-  data () {
-    return {
-    }
-  }
 }
 </script>
 

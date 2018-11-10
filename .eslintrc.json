@@ -4,8 +4,6 @@
         "comma-dangle": ["error", "always-multiline"],
         "class-methods-use-this": "off",
         "semi": ["error", "never"],
-        "react/jsx-filename-extension": "off",
-        "react/destructuring-assignment": [true, "always", { "ignoreClassFields": false }],
         "jsx-a11y/anchor-is-valid": [ "error", {
           "components": [ "Link" ],
           "specialLink": [ "to", "hrefLeft", "hrefRight" ],
